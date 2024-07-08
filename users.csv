@@ -1,0 +1,6 @@
+name,birthdate,email,message_type,language
+Mario Rossi,1990-07-08,mario.rossi@example.com,special,it
+Luca Bianchi,1985-05-15,luca.bianchi@example.com,default,it
+Anna Verdi,1978-11-30,anna.verdi@example.com,special,it
+Juan Pérez,1982-03-10,juan.perez@example.com,special,es
+María García,1995-12-25,maria.garcia@example.com,default,es
